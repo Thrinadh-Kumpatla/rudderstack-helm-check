@@ -12,7 +12,7 @@ jobs:
         uses: stefanprodan/helm-gh-pages@master
         with:
           token: ${{ secrets.BOT_TOKEN }}
-          charts_dir: ./
+          charts_dir: chart
           charts_url: https://thrinadh-kumpatla.github.io/
           owner: thrinadh
           repository: helm-chart
