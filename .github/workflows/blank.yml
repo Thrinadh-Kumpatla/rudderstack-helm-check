@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.BOT_TOKEN }}
           charts_dir: charts
-          charts_url: https://thrinadh-kumpatla.github.io/
+          charts_url: https://Thrinadh-Kumpatla.github.io/
           owner: Thrinadh-Kumpatla
           repository: rudderstack-helm-check
           branch: gh-pages
