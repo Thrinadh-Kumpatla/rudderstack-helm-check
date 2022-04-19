@@ -1,0 +1,9 @@
+dependencies:
+- name: postgresql
+  repository: ""
+  version: 7.7.2
+- name: transformer
+  repository: ""
+  version: 0.1.0
+digest: sha256:d1d1ab7bb3a3cfdaaa585b54fb6e9895ef143dcc1e26ab0a5f25d322e532d8e1
+generated: "2022-04-19T14:32:03.928842+05:30"

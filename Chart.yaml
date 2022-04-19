@@ -21,9 +21,9 @@ version: 0.4.0
 appVersion: 1.16.0
 
 dependencies: 
-- name: postgres
-  version: "1.2.3"
-  repository: "file://../charts/postgres"
+- name: postgresql
+  version: "7.7.2"
+  # repository: "file://postgresql"
 - name: transformer
-  version: "1.2.3"
-  repository: "file://../charts/transformer"
+  version: "0.1.0"
+  # repository: "file://transformer"
