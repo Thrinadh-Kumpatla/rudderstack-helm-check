@@ -3,7 +3,7 @@ entries:
   rudderstack:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-19T10:54:04.594706269Z"
+    created: "2022-04-19T10:54:24.28420237Z"
     dependencies:
     - name: postgresql
       repository: ""
@@ -12,10 +12,10 @@ entries:
       repository: ""
       version: 0.1.0
     description: A Helm chart for Kubernetes
-    digest: f5f4d1b431d7a494371d107c470db44568362b0cd0cfab678c0c1c553c68c5b3
+    digest: 02e9cfea9b8b62ff3040d5a07b39cf2aef82fb3432e5dc0731e53b477d828786
     name: rudderstack
     type: application
     urls:
     - https://thrinadh-kumpatla.github.io/rudderstack-0.4.0.tgz
     version: 0.4.0
-generated: "2022-04-19T10:54:04.588799638Z"
+generated: "2022-04-19T10:54:24.276958824Z"
