@@ -16,4 +16,4 @@ jobs:
           charts_url: https://thrinadh-kumpatla.github.io/
           owner: Thrinadh-Kumpatla
           repository: rudderstack-helm-check
-          branch: main
+          branch: gh-pages
